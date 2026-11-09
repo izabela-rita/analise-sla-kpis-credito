@@ -8,7 +8,7 @@ No final do mês, para apresentar a quantidade de analises realizadas e o prazo 
 
 Sem visão completa, sem extrair mais informações, de forma manual.
 
-Com base nesta limitação, criei um dashboard real, na mesma planilha e com as ferramentas que eu tinha em mãos, que extrai mais informações estratégicas e elimina essa atividade manual.
+Com base nesta limitação, criei um dashboard real, na mesma planilha e com as ferramentas que eu tinha em mãos, que extrai mais informações estratégicas e elimina essa atividade manual. Mais tarde, busquei transferir essa visualização para o Power BI.
 
 Neste projeto, busquei mapear todo desenvolvimento dessa ideia real, utilizando uma base de dados fictícia.
 
